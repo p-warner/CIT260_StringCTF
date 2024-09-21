@@ -34,3 +34,5 @@ import answers, hashlib
 # 7
 # Split the string on 'ppqq'
 
+# 8 
+# Enter the last english word in the list into the associated PLATO quiz

@@ -3,6 +3,8 @@ import hashlib
 '''
 To use this file
 1. import this into your file
+2. call the appropriate method for the CASE and the STEP and provide the string
+    a. for the last step, send the first english word to the proper function
 '''
 
 def case_one_step_zero(word : str) -> bool:
