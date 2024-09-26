@@ -11,6 +11,11 @@ import answers, hashlib
 
 # 0
 # Confirm you have a single string with no whitepsace to start
+# Example
+# if answers.case_one_step_zero(string1):
+#   print('String is correct')
+# else:
+#   print('String is wrong')
 
 # 1
 # If the substring 'DEAD' is in the string, remove it
